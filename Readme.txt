@@ -32,5 +32,3 @@ node_modules/.bin/db-migrate up loadDump         : load latest dumped sql from m
 node_modules/.bin/db-migrate down                : cancel last migration
 node_modules/.bin/db-migrate up library          : make clear database without values
   
-
---Csrf : implemented
